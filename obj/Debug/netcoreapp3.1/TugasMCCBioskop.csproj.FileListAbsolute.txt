@@ -1,0 +1,14 @@
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\bin\Debug\netcoreapp3.1\TugasMCCBioskop.exe
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\bin\Debug\netcoreapp3.1\TugasMCCBioskop.deps.json
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\bin\Debug\netcoreapp3.1\TugasMCCBioskop.runtimeconfig.json
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\bin\Debug\netcoreapp3.1\TugasMCCBioskop.runtimeconfig.dev.json
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\bin\Debug\netcoreapp3.1\TugasMCCBioskop.dll
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\bin\Debug\netcoreapp3.1\TugasMCCBioskop.pdb
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.csproj.AssemblyReference.cache
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.AssemblyInfoInputs.cache
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.AssemblyInfo.cs
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.csproj.CoreCompileInputs.cache
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.dll
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.pdb
+C:\Users\achma\source\repos\TugasMCCBioskop\TugasMCCBioskop\obj\Debug\netcoreapp3.1\TugasMCCBioskop.genruntimeconfig.cache
